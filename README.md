@@ -47,4 +47,60 @@ Utilizamos serviços da AWS para garantir segurança, escalabilidade e alta disp
 - App iOS/Android 📱
 - Plataformas como WhatsApp ou Telegram 💬
 
-### 🔐
+### 🔐Autenticação
+- **Amazon Cognito**: login seguro via Google, Facebook ou SSO
+
+### 🗣️ Processamento Inteligente
+- **Amazon Lex**: entendimento de linguagem natural
+- **AWS Lambda**: lógica de negócios
+- **AWS Comprehend**: análise de sentimentos e entidades
+
+### 🗃️ Banco de Dados
+- **Amazon DynamoDB**: armazenamento seguro e escalável
+
+### 🚨 Respostas e Alertas
+- **Amazon Pinpoint**: envio de alertas (SMS, e-mail, push)
+- **Amazon Location**: rastreamento e localização em tempo real
+
+### 🛡️ Segurança
+- **AWS WAF** e **AWS Shield**: proteção contra ataques web e DDoS
+- **Internet Gateway** e **CAF**: segurança de rede
+
+### 📊 Monitoramento
+- **Amazon CloudWatch**: métricas, logs e eventos do sistema
+
+---
+
+## 🛠️ Roadmap do Projeto
+
+- 🧩 **Sprint 1**: Pesquisa e definição dos cenários
+- 🤖 **Sprint 2**: Desenvolvimento do protótipo do chatbot
+- 🔗 **Sprint 3**: Integração com APIs e testes iniciais
+
+---
+
+## 🧪 MVP - Produto Mínimo Viável
+
+- Chatbot com orientações básicas
+- Contatos úteis
+- Acionamento de emergência com integração a API
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Amazon Web Services (AWS)**: Cognito, Lex, Lambda, DynamoDB, Comprehend, Pinpoint, Location, CloudWatch, WAF, Shield
+- **Frontend**: Aplicativo Móvel (iOS/Android), WhatsApp, Telegram
+
+---
+
+## 🤝 Contribua com o Projeto
+
+Quer colaborar com essa causa? Toda ajuda é bem-vinda!  
+Abra uma *issue* ou envie um *pull request* com suas sugestões ou melhorias.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
